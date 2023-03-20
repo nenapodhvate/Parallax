@@ -1,3 +1,3 @@
 # Parallax
 
-[]https://github.com/nenapodhvate/Parallax/blob/master/screen.gif
+[](https://github.com/nenapodhvate/Parallax/blob/master/screen.gif)
